@@ -1,0 +1,11 @@
+CompSci HomeWork 5-1 sudo codeing for 5-2
+-------
+
+1. input vriables would be just whats on the file as the other variables would be constant. like tax %, and sales tax %.
+
+2. we would need all the formulas from program 4, tip, FinalCost, SalesTax, and Subtotal.
+
+3. 
+call file, read line(n*how many times its ran) perhaps use an array to hold each value aka (people,meal1,meal2,meal3) run these values through the program to compute cost, use loop to read till end of file.
+
+4. Test Cases (0,0 = skip),(1,1 = Price),(-1,5 = skip)
