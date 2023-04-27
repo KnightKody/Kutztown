@@ -1,2 +1,5 @@
-# Kutztown2021
-The programs for the classes I took in 2021 in Kutztown university
+# Kutztown classes
+
+This repository holds all the information for the computer science courses I have taken while attending kutztown university
+## Listed Courses
+- CSC 136 (computer science 1)
