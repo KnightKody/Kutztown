@@ -1,5 +1,7 @@
-Hello Proffesure Earl! This is here to let you know that the data I used for this project was organized by me. I didnt like the data sets I could choose from so I made one that intrested me.
+# Notes
+This was my final project for CSC 223, the project was to choose data sets from sites and organize it, seeing as I couldnt find a data set I liked (and couldnt use another data set someone else in the class used.) I decided to make my own based on convention data gathered over the years from the links below, assuming they still work at the time of veiwing
 
+# Source's of data used
 The following consist of convention data gathered by the event organizers or patrons
 AC data comes from https://www.anthrocon.org/history
 BLFC data comes from https://en.wikifur.com/wiki/Biggest_Little_Fur_Con
