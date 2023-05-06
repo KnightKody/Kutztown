@@ -1,34 +1,13 @@
-# Kutztown classes
+# Notes
+This was my final project for CSC 223, the project was to choose data sets from sites and organize it, seeing as I couldnt find a data set I liked (and couldnt use another data set someone else in the class used.) I decided to make my own based on convention data gathered over the years from the links below, assuming they still work at the time of veiwing
 
-This repository holds all the information for the computer science courses I have taken while attending kutztown university. Including but not limited to grades, and homework assignments
-
-## Listed Courses
-- CSC 135 (Computer Science 1)
-  - C++
-- CSC 136 (Computer Science 2)
-  - C++
-- CSC 223 (Advances Scientific Programing)
-  - Python, Jupyter Notebooks
-- CSC 225
-  - bash, awk, and perl
- 
-## Unlisted Courses
-- CSC 125 (Discrete Math for Computing 1) 
-  - All assignments were done by paper or online book
-- CSC 126 (Discrete Math for Computing 2)
-  - All assignments were done by paper or online book
-  
- ## Grades
- 
- |  Class  |  Grade  |
- | -------:|-------- |
- | CSC 125 |    D    |
- | CSC 135 |    A    |
- | CSC 136 |         |
- | CSC 150 |    B    |
- | CSC 223 |    B    |
- | CSC 225 |    A    |
- | CSC 235 |         |
- | CSC 237 |         |
- | CSC 240 |         |
- | CSC 252 |         |
+# Source's of data used
+The following consist of convention data gathered by the event organizers or patrons
+AC data comes from https://www.anthrocon.org/history
+BLFC data comes from https://en.wikifur.com/wiki/Biggest_Little_Fur_Con
+EF data comes from https://archive.eurofurence.org/
+FC data comes from https://en.wikifur.com/wiki/Further_Confusion
+FF data comes from https://en.wikifur.com/wiki/Furry_Fiesta
+FWA data comes from https://www.furryweekend.com/about/history/
+MFF data comes from https://www.furfest.org/charity/history
+MP data comes from https://archives.megaplexcon.org/
