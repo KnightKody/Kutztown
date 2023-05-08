@@ -1,0 +1,37 @@
+Script started on Tue 28 Mar 2023 09:44:08 AM EDT
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[?1034h[kknig958@kuvapcsitrd01 HW5]$ ps -u kknig958
+   PID TTY          TIME CMD
+ 83219 ?        00:00:00 sshd
+ 83220 pts/2    00:00:00 bash
+ 85972 ?        00:00:00 sshd
+ 85973 pts/7    00:00:00 bash
+ 86088 pts/2    00:00:00 nano
+ 86252 pts/7    00:00:00 script
+ 86254 pts/7    00:00:00 script
+ 86255 pts/13   00:00:00 bash
+ 86379 pts/13   00:00:00 sleep
+ 87183 pts/13   00:00:00 script
+ 87185 pts/13   00:00:00 script
+ 87186 pts/5    00:00:00 bash
+ 87255 pts/5    00:00:00 ps
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ jobs
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ sleep 500
+^Z
+[1]+  Stopped                 sleep 500
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ bg
+[1]+ sleep 500 &
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ joo[Kbs
+[1]+  Running                 sleep 500 &
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ fg
+sleep 500
+^Z
+[1]+  Stopped                 sleep 500
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ kill %1
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5
+[1]+  Stopped                 sleep 500
+[kknig958@kuvapcsitrd01 HW5]$ jobs
+[1]+  Terminated              sleep 500
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ exit
+exit
+
+Script done on Tue 28 Mar 2023 09:45:03 AM EDT

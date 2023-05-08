@@ -1,0 +1,12 @@
+Script started on 2023-04-06 16:55:31-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="82" LINES="19"]
+[?2004h]0;root@csc252-31: ~root@csc252-31:~# exituseradd -u 2000 -d /home/usr252 --shell /bin/bash usr252
+[?2004l[?2004h]0;root@csc252-31: ~root@csc252-31:~# groupadd -g 2500 grp252
+[?2004l[?2004h]0;root@csc252-31: ~root@csc252-31:~# usermod -g grp252 usr252
+[?2004l[?2004h]0;root@csc252-31: ~root@csc252-31:~# sudo passwd usr252
+[?2004lNew password: 
+Retype new password: 
+passwd: password updated successfully
+[?2004h]0;root@csc252-31: ~root@csc252-31:~# exit
+[?2004lexit
+
+Script done on 2023-04-06 17:00:46-04:00 [COMMAND_EXIT_CODE="0"]

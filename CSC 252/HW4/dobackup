@@ -1,0 +1,19 @@
+#!/bin/bash
+
+if [ "$#" -ne 3 ]
+then
+    echo "Number of arguments not met"
+    exit 0
+fi
+
+CALENDAR="$(date +"%Y-%m-%d")"
+NAME=$2.$CALENDAR
+mkdir $NAME 2> /dev/null
+
+FILES=( $(find $1 -name *.$3 -type f) )
+
+for File in "${FILES[@]}"
+do
+    echo "Backing up $File"
+    cp $File $NAME
+done

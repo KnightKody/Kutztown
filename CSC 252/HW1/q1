@@ -1,0 +1,5 @@
+whoami
+id -u kknig958
+id -gn kknig958
+id -u
+groups kknig958

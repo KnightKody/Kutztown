@@ -1,0 +1,16 @@
+Script started on Tue 21 Feb 2023 07:24:03 PM EST
+]0;kknig958@kuvapcsitrd01:~[?1034h[kknig958@kuvapcsitrd01 ~]$ ECH[K[K[Kecho $PATH
+/opt/gcc-8.3.0/bin:/usr/java/jdk-15.0.1//bin:/opt/maven/latest/bin:/opt/ant/bin:/opt/gcc-8.3.0/bin:/usr/java/jdk-15.0.1//bin:/opt/maven/latest/bin:/opt/ant/bin:/opt/gcc-8.3.0/bin:/usr/java/jdk-15.0.1//bin:/opt/maven/latest/bin:/opt/ant/bin:/usr/local/bin:/usr/bin:/home/students.kutztown.edu/kknig958/.dotnet/tools:/home/students.kutztown.edu/kknig958/.dotnet/tools:/home/students.kutztown.edu/kknig958/.dotnet/tools
+]0;kknig958@kuvapcsitrd01:~[kknig958@kuvapcsitrd01 ~]$ echo $SHELL
+/bin/bash
+]0;kknig958@kuvapcsitrd01:~[kknig958@kuvapcsitrd01 ~]$ echo $USER
+kknig958
+]0;kknig958@kuvapcsitrd01:~[kknig958@kuvapcsitrd01 ~]$ echo HOME$HOME[Kecho $HOME
+/home/students.kutztown.edu/kknig958
+]0;kknig958@kuvapcsitrd01:~[kknig958@kuvapcsitrd01 ~]$ echo Logged in user is `h[Kwhoami 
+`
+Logged in user is kknig958
+]0;kknig958@kuvapcsitrd01:~[kknig958@kuvapcsitrd01 ~]$ exit
+exit
+
+Script done on Tue 21 Feb 2023 07:24:41 PM EST

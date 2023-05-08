@@ -1,0 +1,1 @@
+when running those two commands you acn see that the two files are identical, from there inode number, to there privlages, (and there modification time)

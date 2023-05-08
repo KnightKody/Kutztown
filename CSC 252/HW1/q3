@@ -1,0 +1,2 @@
+date +"%D"
+date +"%A, %D"

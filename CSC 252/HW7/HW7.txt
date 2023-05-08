@@ -1,0 +1,11 @@
+#/bin/bash
+
+1. sed -e 's/^.*,//' -e 's/ .*//' < thespians.txt
+echo 
+2. sed 's/^.* "/"/' < thespians.txt
+echo 
+3. sed 's/1.*.* //' < thespians.txt
+echo 
+4. sed '/.*B/ s/1.*.* /**** /' < thespians.txt
+echo 
+5. sed -e 's/^.*,//' -e 's/1.*.* //' -e 's/"//' < thespians.txt

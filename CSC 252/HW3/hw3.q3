@@ -1,0 +1,27 @@
+Script started on Tue 21 Feb 2023 07:09:00 PM EST
+]0;kknig958@kuvapcsitrd01:~[?1034h[kknig958@kuvapcsitrd01 ~]$ cd /bin
+]0;kknig958@kuvapcsitrd01:/bin[kknig958@kuvapcsitrd01 bin]$ find | grep './mk'
+[01;31m[K./mk[m[Kdir
+[01;31m[K./mk[m[Kfifo
+[01;31m[K./mk[m[Knod
+[01;31m[K./mk[m[Ktemp
+[01;31m[K./mk[m[Krfc2734
+[01;31m[K./mk[m[Kfontdir
+[01;31m[K./mk[m[Kfontscale
+[01;31m[K./mk[m[Kisofs
+[01;31m[K./mk[m[Khybrid
+[01;31m[K./mk[m[Kmanifest
+[01;31m[K./mk[m[Kinitrd
+[01;31m[K./mk[m[Kafmmap
+[01;31m[K./mk[m[Kpasswd
+]0;kknig958@kuvapcsitrd01:/bin[kknig958@kuvapcsitrd01 bin]$ ls /bin/true /bin/false /b 
+in/maybe
+ls: cannot access /bin/maybe: No such file or directory
+[0m[38;5;34m/bin/false[0m  [38;5;34m/bin/true[0m
+]0;kknig958@kuvapcsitrd01:/bin[kknig958@kuvapcsitrd01 bin]$ ls /bin/true /bin/false /bi
+in/maybe 2>dev/null/dev/null
+[0m[38;5;34m/bin/false[0m  [38;5;34m/bin/true[0m
+]0;kknig958@kuvapcsitrd01:/bin[kknig958@kuvapcsitrd01 bin]$ exit
+exit
+
+Script done on Tue 21 Feb 2023 07:10:08 PM EST

@@ -1,0 +1,14 @@
+Script started on Tue 14 Feb 2023 01:37:53 PM EST
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW2[?1034h[kknig958@kuvapcsitrd01 HW2]$ rm presidents.hard
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW2[kknig958@kuvapcsitrd01 HW2]$ ln -s presidents.txt presidents.txt [K[K[K[Ksoft
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW2[kknig958@kuvapcsitrd01 HW2]$ ls - [Kil presidents.txt
+1311035709 -rw-r--r--. 1 kknig958 kknig958 588 Feb 13 20:06 presidents.txt
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW2[kknig958@kuvapcsitrd01 HW2]$ ls -il presidents.txt[K[K[Ksoft
+638129107 lrwxrwxrwx. 1 kknig958 kknig958 14 Feb 14 13:38 [0m[38;5;51mpresidents.soft[0m -> presidents.txt
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW2[kknig958@kuvapcsitrd01 HW2]$ cat q3.txt 
+they had diffrent inodes, diffrent privlages, and it shows that presidents.soft is almost like a pointer to presidents.txt
+
+Just about everything about the two was diffrent, proving how they arent hard links of each other]0;kknig958@kuvapcsitrd01:~/CSC252/HW2[kknig958@kuvapcsitrd01 HW2]$ exit
+exit
+
+Script done on Tue 14 Feb 2023 01:38:33 PM EST

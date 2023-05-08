@@ -1,0 +1,12 @@
+1   George       Washington   Indep    Vir    57
+2   John         Adams        Fed      Mass   61
+3   Thomas       Jefferson    DemRep   Vir    57
+4   James        Madison      DemRep   Vir    57
+5   James        Monroe       DemRep   Vir    58
+6   John-Q       Adams        DemRep   Mass   57
+7   Andrew       Jackson      Dem      Tenn   61
+8   Martin       VanBuren     Dem      NY     54
+9   William-H    Harrison     Whig     Ohio   68
+10  John         Tyler        Whig     Vir    51
+11  James        Polk         Dem      Tenn   49
+12  Zachary      Taylor       Whig     Lou    64

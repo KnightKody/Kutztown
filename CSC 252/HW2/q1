@@ -1,0 +1,50 @@
+Script started on Tue 14 Feb 2023 11:09:38 AM EST
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW2[?1034h[kknig958@kuvapcsitrd01 HW2]$ sort presidents.txt -k 3
+6   John-Q       Adams        DemRep   Mass   57
+2   John         Adams        Fed      Mass   61
+9   William-H    Harrison     Whig     Ohio   68
+7   Andrew       Jackson      Dem      Tenn   61
+3   Thomas       Jefferson    DemRep   Vir    57
+4   James        Madison      DemRep   Vir    57
+5   James        Monroe       DemRep   Vir    58
+11  James        Polk         Dem      Tenn   49
+12  Zachary      Taylor       Whig     Lou    64
+10  John         Tyler        Whig     Vir    51
+8   Martin       VanBuren     Dem      NY     54
+1   George       Washington   Indep    Vir    57
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW2[kknig958@kuvapcsitrd01 HW2]$ sort presidents.txt -nk 6
+11  James        Polk         Dem      Tenn   49
+10  John         Tyler        Whig     Vir    51
+8   Martin       VanBuren     Dem      NY     54
+1   George       Washington   Indep    Vir    57
+3   Thomas       Jefferson    DemRep   Vir    57
+4   James        Madison      DemRep   Vir    57
+6   John-Q       Adams        DemRep   Mass   57
+5   James        Monroe       DemRep   Vir    58
+2   John         Adams        Fed      Mass   61
+7   Andrew       Jackson      Dem      Tenn   61
+12  Zachary      Taylor       Whig     Lou    64
+9   William-H    Harrison     Whig     Ohio   68
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW2[kknig958@kuvapcsitrd01 HW2]$ grep Vir A[Kpresidents.txt 
+1   George       Washington   Indep    [01;31m[KVir[m[K    57
+3   Thomas       Jefferson    DemRep   [01;31m[KVir[m[K    57
+4   James        Madison      DemRep   [01;31m[KVir[m[K    57
+5   James        Monroe       DemRep   [01;31m[KVir[m[K    58
+10  John         Tyler        Whig     [01;31m[KVir[m[K    51
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW2[kknig958@kuvapcsitrd01 HW2]$ grep -v Adams presidents.txtt 
+1   George       Washington   Indep    Vir    57
+3   Thomas       Jefferson    DemRep   Vir    57
+4   James        Madison      DemRep   Vir    57
+5   James        Monroe       DemRep   Vir    58
+7   Andrew       Jackson      Dem      Tenn   61
+8   Martin       VanBuren     Dem      NY     54
+9   William-H    Harrison     Whig     Ohio   68
+10  John         Tyler        Whig     Vir    51
+11  James        Polk         Dem      Tenn   49
+12  Zachary      Taylor       Whig     Lou    64
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW2[kknig958@kuvapcsitrd01 HW2]$ wc -l < presidents.txt 
+12
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW2[kknig958@kuvapcsitrd01 HW2]$ exit
+exit
+
+Script done on Tue 14 Feb 2023 11:10:16 AM EST

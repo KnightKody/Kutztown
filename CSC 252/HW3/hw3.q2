@@ -1,0 +1,46 @@
+Script started on Tue 21 Feb 2023 10:26:39 AM EST
+]0;kknig958@kuvapcsitrd01:~[?1034h[kknig958@kuvapcsitrd01 ~]$ find /dev -name lp*
+/dev/lp3
+/dev/lp1
+/dev/lp2
+/dev/lp0
+]0;kknig958@kuvapcsitrd01:~[kknig958@kuvapcsitrd01 ~]$ find /dev -name lp* > meta.txt
+]0;kknig958@kuvapcsitrd01:~[kknig958@kuvapcsitrd01 ~]$ cat meta.txt
+/dev/lp3
+/dev/lp1
+/dev/lp2
+/dev/lp0
+]0;kknig958@kuvapcsitrd01:~[kknig958@kuvapcsitrd01 ~]$ cat meta.txt[18@find /dev -name lp* >[C[C[C[C[C[C[C[C[C> meta.txt[C[C[1P[1P[1@s[1@d[1@a
+]0;kknig958@kuvapcsitrd01:~[kknig958@kuvapcsitrd01 ~]$ cat meta.txt
+/dev/lp3
+/dev/lp1
+/dev/lp2
+/dev/lp0
+/dev/sda3
+/dev/sda2
+/dev/sda1
+/dev/sda
+]0;kknig958@kuvapcsitrd01:~[kknig958@kuvapcsitrd01 ~]$ find . -name "*[0-9]"
+./CSC135
+./kknig958@kuvapcsitrd01.kutztown.edu.60700:1671377517
+./hw3.q2
+./CSC136
+./CSC136/HW1
+./CSC136/HW2
+./CSC252
+./CSC252/HW2
+./CSC252/HW2/q2
+./CSC252/HW2/q1
+./CSC252/HW2/q3
+./CSC252/HW1
+./CSC252/HW1/q1
+./CSC252/HW1/q2
+./CSC252/HW1/q3
+./CSC252/HW3
+./CSC252/HW3/hw3.q1
+./kknig958@kuvapcsitrd01.kutztown.edu.50568:1631098385
+./kknig958@kuvapcsitrd01.kutztown.edu.84897:1675768564
+]0;kknig958@kuvapcsitrd01:~[kknig958@kuvapcsitrd01 ~]$ exit
+exit
+
+Script done on Tue 21 Feb 2023 10:27:33 AM EST

@@ -1,0 +1,45 @@
+Script started on Tue 28 Mar 2023 10:16:17 AM EDT
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[?1034h[kknig958@kuvapcsitrd01 HW5]$ ps a | grep 'bash'
+ 31089 pts/55   Ss+    0:00 /bin/[01;31m[Kbash[m[K --init-file /home/students.kutztown.edu/hahme858/.vscode-server/bin/ee2b180d582a7f601fa6ecfdad8d9fd269ab1884/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-[01;31m[Kbash[m[K.sh
+ 42350 pts/9    Ss+    0:00 -[01;31m[Kbash[m[K
+ 45317 pts/4    Ss+    0:00 -[01;31m[Kbash[m[K
+ 46353 pts/0    Ss+    0:01 -[01;31m[Kbash[m[K
+ 47300 pts/38   Ss     0:00 -[01;31m[Kbash[m[K
+ 65166 pts/39   Ss+    0:00 /bin/[01;31m[Kbash[m[K --init-file /home/students.kutztown.edu/hahme858/.vscode-server/bin/ee2b180d582a7f601fa6ecfdad8d9fd269ab1884/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-[01;31m[Kbash[m[K.sh
+ 82754 pts/1    Ss+    0:00 -[01;31m[Kbash[m[K
+ 83220 pts/2    Ss     0:00 -[01;31m[Kbash[m[K
+ 85973 pts/7    Ss     0:00 -[01;31m[Kbash[m[K
+ 86255 pts/13   Ss     0:00 [01;31m[Kbash[m[K -i
+ 86899 pts/14   Ss+    0:00 -[01;31m[Kbash[m[K
+ 87571 pts/5    Ss     0:00 -[01;31m[Kbash[m[K
+ 88231 pts/19   Ss     0:00 -[01;31m[Kbash[m[K
+ 88524 pts/21   Ss     0:00 -[01;31m[Kbash[m[K
+ 88987 pts/32   Ss+    0:00 -[01;31m[Kbash[m[K
+ 90062 pts/34   Ss     0:00 -[01;31m[Kbash[m[K
+ 92553 pts/18   Ss     0:00 [01;31m[Kbash[m[K -i
+ 93126 pts/36   Ss+    0:00 -[01;31m[Kbash[m[K
+ 93239 pts/37   Ss     0:00 -[01;31m[Kbash[m[K
+ 93320 pts/40   Ss+    0:00 -[01;31m[Kbash[m[K
+ 93880 pts/41   Ss+    0:00 -[01;31m[Kbash[m[K
+ 94419 pts/45   Ss     0:00 -[01;31m[Kbash[m[K
+ 94567 pts/46   Ss+    0:00 -[01;31m[Kbash[m[K
+ 94620 pts/47   Ss+    0:00 -[01;31m[Kbash[m[K
+ 94804 pts/49   Ss+    0:00 -[01;31m[Kbash[m[K
+ 95383 pts/18   S      0:00 [01;31m[Kbash[m[K
+ 97094 pts/6    Ss     0:00 -[01;31m[Kbash[m[K
+ 97257 pts/44   Ss     0:00 -[01;31m[Kbash[m[K
+ 97703 pts/50   Ss     0:00 [01;31m[Kbash[m[K -i
+ 97797 pts/50   S+     0:00 grep --color=auto [01;31m[Kbash[m[K
+ 98447 pts/42   Ss     0:00 -[01;31m[Kbash[m[K
+ 98672 pts/42   S+     0:00 -[01;31m[Kbash[m[K
+110320 pts/20   Ss+    0:00 /bin/[01;31m[Kbash[m[K --init-file /home/students.kutztown.edu/hahme858/.vscode-server/bin/ee2b180d582a7f601fa6ecfdad8d9fd269ab1884/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-[01;31m[Kbash[m[K.sh
+115803 pts/3    Ss     0:00 -[01;31m[Kbash[m[K
+118923 pts/48   Ss     0:00 -[01;31m[Kbash[m[K
+125792 pts/28   Ss+    0:00 /bin/[01;31m[Kbash[m[K --init-file /home/students.kutztown.edu/nrew088/.vscode-server/bin/ee2b180d582a7f601fa6ecfdad8d9fd269ab1884/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-[01;31m[Kbash[m[K.sh
+130558 pts/43   Ss+    0:00 [01;31m[Kbash[m[K -i
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ ps a |[K| grep -c 'bash'
+37
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ exit
+exit
+
+Script done on Tue 28 Mar 2023 10:16:35 AM EDT

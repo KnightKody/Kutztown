@@ -1,0 +1,19 @@
+Script started on Tue 21 Feb 2023 09:39:35 AM EST
+]0;kknig958@kuvapcsitrd01:~[?1034h[kknig958@kuvapcsitrd01 ~]$ which hi252
+/usr/bin/which: no hi252 in (/opt/gcc-8.3.0/bin:/usr/java/jdk-15.0.1//bin:/opt/maven/latest/bin:/opt/ant/bin:/opt/gcc-8.3.0/bin:/usr/java/jdk-15.0.1//bin:/opt/maven/latest/bin:/opt/ant/bin:/opt/gcc-8.3.0/bin:/usr/java/jdk-15.0.1//bin:/opt/maven/latest/bin:/opt/ant/bin:/usr/local/bin:/usr/bin:/home/students.kutztown.edu/kknig958/.dotnet/tools:/home/students.kutztown.edu/kknig958/.dotnet/tools:/home/students.kutztown.edu/kknig958/.dotnet/tools)
+]0;kknig958@kuvapcsitrd01:~[kknig958@kuvapcsitrd01 ~]$ x[Kexport PATH=""[C:"P"A"T"H"$PATH" :$PATH"[1P:$PATH"/:$PATH"e:$PATH"x:$PATH"p:$PATH"o:$PATH"r:$PATH"t:$PATH" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/:$PATH"
+"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ch:$PATH"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Co:$PATH"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm:$PATH"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce:$PATH"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/:$PATH"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cp:$PATH"
+u:$PATH"
+[Cb:$PATH"
+[C[Cl:$PATH"
+[C[C[Ci:$PATH"
+[C[C[C[Cc:$PATH"
+[C[C[C[C[C/:$PATH"c:$PATH"a:$PATH"r:$PATH"e:$PATH"l:$PATH"l:$PATH"i:$PATH"/:$PATH"c:$PATH"s:$PATH"c:$PATH"2:$PATH"5:$PATH"2:$PATH"/:$PATH"E:$PATH"x:$PATH"a:$PATH"m:$PATH"p:$PATH"l:$PATH"e:$PATH"s:$PATH"
+]0;kknig958@kuvapcsitrd01:~[kknig958@kuvapcsitrd01 ~]$ which hi252
+/export/home/public/carelli/csc252/Examples/hi252
+]0;kknig958@kuvapcsitrd01:~[kknig958@kuvapcsitrd01 ~]$ hi252
+Hello World!!!
+]0;kknig958@kuvapcsitrd01:~[kknig958@kuvapcsitrd01 ~]$ exit
+exit
+
+Script done on Tue 21 Feb 2023 09:40:44 AM EST

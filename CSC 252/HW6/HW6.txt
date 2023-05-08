@@ -1,0 +1,29 @@
+/* NOTES */
+// root access: sudo -i 
+// same password as VM password
+// VM #: csc252-31
+// VM U: csc252
+// VM P: H8YMzhr
+// ssh 
+
+
+1. Create a new user account on the VM machine.
+/* Use typescript called "account.txt" to show steps */
+// useradd -u 2000 -d /home/usr252 --shell /bin/bash usr252
+// groupadd -g 2500 grp252
+// usermod -g grp252 usr252
+
+/* Use typeScript files called showaccount.txt to show steps */
+// su - usr252
+// whoami
+// groups usr252
+
+2. Set up a permanent mount to access a disk on your host machine.
+/* Use typescript called disksetup.txt*/
+//
+//
+//
+3. Download and install a software package, then ran an installed program.
+/* Use typescript called "game.txt" */
+// adventure
+// 

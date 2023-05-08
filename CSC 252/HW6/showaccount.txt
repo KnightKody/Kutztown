@@ -1,0 +1,13 @@
+Script started on 2023-04-06 17:11:04-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="82" LINES="19"]
+[?2004h]0;root@csc252-31: ~root@csc252-31:~# su - usr252
+[?2004lsu: warning: cannot change directory to /home/usr252: No such file or directory
+[?2004husr252@csc252-31:/root$ whoami
+[?2004lusr252
+[?2004husr252@csc252-31:/root$ groups
+[?2004lgrp252
+[?2004husr252@csc252-31:/root$ exit
+[?2004llogout
+[?2004h]0;root@csc252-31: ~root@csc252-31:~# exit
+[?2004lexit
+
+Script done on 2023-04-06 17:11:24-04:00 [COMMAND_EXIT_CODE="0"]

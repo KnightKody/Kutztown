@@ -1,0 +1,23 @@
+Script started on Tue 28 Mar 2023 10:19:33 AM EDT
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[?1034h[kknig958@kuvapcsitrd01 HW5]$ history 6
+  541  ps | grep -c 'bash'
+  542  exit
+  543  ps a | grep 'bash'
+  544  ps a | grep -c 'bash'
+  545  exit
+  546  history 6
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ uptime
+ 10:19:42 up 12 days, 11 min, 29 users,  load average: 0.36, 0.17, 0.12
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ free
+              total        used        free      shared  buff/cache   available
+Mem:       18310688     2728968     5687784      780268     9893936    14455196
+Swap:       8257532           0     8257532
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ pstree -u kknig958
+sshd───bash───nano
+
+sshd───bash───script───script───bash─┬─script───script───bash───bash───script───script───bash───pstree
+                                     └─sleep
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ exit
+exit
+
+Script done on Tue 28 Mar 2023 10:19:53 AM EDT

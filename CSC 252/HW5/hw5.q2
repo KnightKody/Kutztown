@@ -1,0 +1,29 @@
+Script started on Tue 28 Mar 2023 10:05:02 AM EDT
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[?1034h[kknig958@kuvapcsitrd01 HW5]$ sleep 1000& &
+[1] 94019
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ sleep 1000 &[1P[1@2
+[2] 94030
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ kill -s[KSTOP %1
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5
+[1]+  Stopped                 sleep 1000
+[kknig958@kuvapcsitrd01 HW5]$ ps [K[K[Kps
+   PID TTY          TIME CMD
+ 93957 pts/44   00:00:00 bash
+ 94019 pts/44   00:00:00 sleep
+ 94030 pts/44   00:00:00 sleep
+ 94080 pts/44   00:00:00 ps
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ echo You can tell by [K[K[Kthe process was suspeneded because the time is 00:00:00
+You can tell the process was suspeneded because the time is 00:00:00
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ K[Kkill -CONT %1
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ jobs
+[1]+  Running                 sleep 1000 &
+[2]-  Running                 sleep 2000 &
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ kill -9 %1
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[1]+  Killed                  sleep 1000
+[kknig958@kuvapcsitrd01 HW5]$ kill -9 %2
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[2]+  Killed                  sleep 2000
+[kknig958@kuvapcsitrd01 HW5]$ jobs
+]0;kknig958@kuvapcsitrd01:~/CSC252/HW5[kknig958@kuvapcsitrd01 HW5]$ exit
+exit
+
+Script done on Tue 28 Mar 2023 10:08:15 AM EDT

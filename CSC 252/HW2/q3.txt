@@ -1,0 +1,2 @@
+they had diffrent inodes, diffrent privlages, and it shows that presidents.soft is almost like a pointer to presidents.txt
+Just about everything about the two was diffrent, proving how they arent hard links of each other

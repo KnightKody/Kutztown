@@ -1,0 +1,8 @@
+/dev/lp3
+/dev/lp1
+/dev/lp2
+/dev/lp0
+/dev/sda3
+/dev/sda2
+/dev/sda1
+/dev/sda

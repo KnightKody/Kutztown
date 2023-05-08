@@ -1,0 +1,8 @@
+Chase,Cornelius 1943 "Chevy"
+Davis,Ruth      1908 "Bette"
+Keaton,Joseph   1895 "Buster"
+Stone,Emily     1988 "Emma"
+Lee,Shelton     1957 "Spike"
+Reynolds,Mary   1932 "Debbie"
+Crosby,Harry    1903 "Bing"
+Fey,Stamatina   1970 "Tina"
