@@ -24,11 +24,11 @@ This repository holds all the information for the computer science courses I hav
  | -------:|-------- |
  | CSC 125 |    D    |
  | CSC 135 |    A    |
- | CSC 136 |         |
+ | CSC 136 |    B-   |
  | CSC 150 |    B    |
  | CSC 223 |    B    |
  | CSC 225 |    A    |
  | CSC 235 |         |
  | CSC 237 |         |
- | CSC 240 |         |
- | CSC 252 |         |
+ | CSC 240 |    A-   |
+ | CSC 252 |    B-   |
