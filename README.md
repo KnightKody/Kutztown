@@ -14,9 +14,11 @@ This repository holds all the information for the computer science courses I hav
  
 ## Unlisted Courses
 - CSC 125 (Discrete Math for Computing 1) 
-  - All assignments were done by paper or online book
+  - All assignments were done by paper or online
 - CSC 126 (Discrete Math for Computing 2)
-  - All assignments were done by paper or online book
+  - All assignments were done by paper or online
+- CSC 150 (Ethical, Legal, and Professional Impacts of the Digital Age)
+  - All assignments were done by paper or online
   
  ## Grades
  
