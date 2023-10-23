@@ -7,17 +7,23 @@ This repository holds all the information for the computer science courses I hav
   - C++
 - CSC 136 (Computer Science 2)
   - C++
-- CSC 223 (Advances Scientific Programing)
+- CSC 223 (Advanced Scientific Programing)
   - Python, Jupyter Notebooks
-- CSC 225
+- CSC 235 (Comp Organ + Assembly Language)
+  - ASM
+- CSC 237 (Data Structures)
+  - C++
+- CSC 240 (Fundementals of Game Development)
+  - C#
+- CSC 252 (Unix Scripting and Admin)
   - bash, awk, and perl
  
 ## Unlisted Courses
 - CSC 125 (Discrete Math for Computing 1) 
   - All assignments were done by paper or online
-- CSC 126 (Discrete Math for Computing 2)
-  - All assignments were done by paper or online
 - CSC 150 (Ethical, Legal, and Professional Impacts of the Digital Age)
+  - All assignments were done by paper or online
+- CSC 225 (Discrete Math for Computing 2)
   - All assignments were done by paper or online
   
  ## Grades
